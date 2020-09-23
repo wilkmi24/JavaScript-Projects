@@ -15,3 +15,6 @@ var blues="I have the blues";//Here I'm defining the variable "blues"
 var blues=blues.fontcolor("blue"); //Here i'm changing th color for the font for the variable "blues"
 document.write(blues);//I'm telling the program to print "blues" 
 document.write(3+3);//telling the program to print the sum of 3+3
+
+
+
